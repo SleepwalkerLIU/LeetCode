@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="412870e6-161a-462b-b591-d95a8057052c" name="Default Changelist" comment="" />
+    <list default="true" id="412870e6-161a-462b-b591-d95a8057052c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DFS/LongestIncreasingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LengthOfLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/MinPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithm/CanJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithm/IntegerBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputOutput/inputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/QueueToStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackToQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/BinarySearchTree/SortedArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/BinarySearchTree/SortedArrayToBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/DungeonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/DungeonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/MinimumTotal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/MinimumTotal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/QuickSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +52,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eclPmALgn3KWarVYWkf13EnnTt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,19 +68,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SprintBoot/demo" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Tree.Codec" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedArrayToBST">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="NumTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.BinarySearchTree.NumTrees" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Tree.BinarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.QuickSort" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +132,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputOutput.inputOutput" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InputOutput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.inputOutput" />
         <item itemvalue="Application.SortedArrayToBST" />
         <item itemvalue="Application.NumTrees" />
         <item itemvalue="Application.SelectionSort" />
@@ -90,12 +167,25 @@
       <updated>1594628740208</updated>
       <workItem from="1594628745358" duration="34971000" />
       <workItem from="1595213139108" duration="2531000" />
-      <workItem from="1595234034604" duration="1325000" />
+      <workItem from="1595234034604" duration="25740000" />
+      <workItem from="1595918767102" duration="10278000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594784949693">
@@ -106,25 +196,53 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="207" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594725502311" />
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1594796898655">
+    <state x="687" y="216" key="FileChooserDialogImpl" timestamp="1595939417586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594796898655" />
-    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1594796898654">
+    <state x="687" y="216" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595939417586" />
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom" timestamp="1596026783217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594796898654" />
-    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1594796898654">
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783217" />
+    <state width="1867" height="332" key="GridCell.Tab.0.center" timestamp="1596026783217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594796898654" />
-    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1594796898654">
+    <state width="1867" height="332" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783217" />
+    <state width="1867" height="332" key="GridCell.Tab.0.left" timestamp="1596026783217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594796898654" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1594719172812">
+    <state width="1867" height="332" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783217" />
+    <state width="1867" height="332" key="GridCell.Tab.0.right" timestamp="1596026783217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594719172812" />
+    <state width="1867" height="332" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783217" />
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1596026783218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783218" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1596026783217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783217" />
+    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1596026783217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783217" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1596026783217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596026783217" />
+    <state x="624" y="0" key="SettingsEditor" timestamp="1595939064609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="0" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595939064609" />
+    <state x="158" y="52" key="new project wizard" timestamp="1595940060109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="158" y="52" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595940060109" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1595736964352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595736964352" />
   </component>
 </project>

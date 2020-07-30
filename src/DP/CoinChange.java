@@ -1,6 +1,13 @@
 package DP;
 
 public class CoinChange {
+    /**
+     * 已知不同面值的钞票，求如 何用最少数量的钞票组成某个金额，求可 以使用的最少钞票数量。
+     * 如果任意数量的已知面值钞票都无法组成该金额， 则返回-1。
+     * @param coins
+     * @param amount
+     * @return
+     */
     public int coinChange(int[] coins, int amount) {
         int len = coins.length;
         if (len == 0 || amount < 0) {

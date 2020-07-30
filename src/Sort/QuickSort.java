@@ -7,7 +7,7 @@ public class QuickSort {
     public static void main(String[] args) {
         int[] array = {3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48};
         // 只需要修改成对应的方法名就可以了
-        quickSort(array, 0, args.length - 1);
+        quickSort(array, 0, array.length - 1);
 
         System.out.println(Arrays.toString(array));
     }
